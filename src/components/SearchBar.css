@@ -1,4 +1,21 @@
 .filter-item {
     cursor:pointer;
     display: inline-flex;
+    width: auto;
 }
+
+@media only screen and (max-width: 500px) {
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+    .filter-item {
+        cursor:pointer;
+        display: inline-flex;
+        width: auto;
+    }
+    .search-box {
+        width: 100%;
+    }
+  
+};

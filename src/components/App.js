@@ -31,7 +31,7 @@ const App = () => {
             <div className="ui container">
                 <div className="ui grid">
                     <div className="sixteen wide column">
-                        <div className="ui menu">
+                        <div className="ui menu navbar">
                             <Filters getResponse={getResponse} />
                             <SearchBar onFormSubmit={onFormSubmit} />
                             <a href="https://github.com/xavsadiq" className="right item github icon"><i className="github icon" /></a>
