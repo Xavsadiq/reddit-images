@@ -19,8 +19,8 @@ Using the search endpoint to display new wallpapers by default. Filters by 'imag
 
 ## Contact
 
-- [https://github.com/xavsadiq]
-- [https://xavdev.io]
+- https://github.com/xavsadiq
+- https://xavdev.io
 
 
 
