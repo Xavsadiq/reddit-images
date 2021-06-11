@@ -13,7 +13,7 @@ Exposure to the Reddit API and allows user to quickly find a wallpaper backgroun
 
 ## API
 
-- [Reddit API Documentation](https://www.reddit.com/dev/api/Reddit)
+- [Reddit API Documentation](https://www.reddit.com/dev/api/)
 
 Using the search endpoint to display new wallpapers by default. Filters by 'image' type only.
 
